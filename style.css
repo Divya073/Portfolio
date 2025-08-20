@@ -12,7 +12,7 @@
     --bg-color:#080808;
     --second-bg-color:#131313;
     --text-color:white;
-    --main-color:rgb(0, 255, 0);
+    --main-color:#ffc107;
 }
 html{
     font-size: 60%;
@@ -370,23 +370,23 @@ color: black;
     
     0%,
     20%{
-        content: "Frontend Designer";
+        content: "Full stack developer";
     }
     21%,
     40%{
-        content: "Web Designer";
+        content: "Java Developer";
     }
     41%,
     60%{
-        content: "full stack developer";
+        content: "Frontend Developer";
     }
     61%,
     80%{
-        content: "Frontend Designer";
+        content: "Software Engineer";
     }
     81%,
     100%{
-        content: "full stack developer";
+        content: "Web Developer";
     }
 }
 @keyframes typing{
@@ -990,4 +990,5 @@ color: black;
     .contact-info p,.social-links a{
         font-size: 1.5rem;
     }
+
 }
